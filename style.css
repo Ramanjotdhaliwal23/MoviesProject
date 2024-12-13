@@ -1,0 +1,36 @@
+#header{
+	border: 2px solid none;
+}
+
+#header ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+
+#header a{
+	text-decoration: none;
+	color: black;
+
+}
+
+#footer{
+	display: flex;
+	justify-content: space-evenly;
+	border: 1px solid none;
+	width: 400px;
+	margin: auto;
+	padding: 10px;
+	
+
+}
+#footer a{
+	color: darkred;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+#edit{
+	color: darkred;
+}
